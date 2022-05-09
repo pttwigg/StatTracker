@@ -1,2 +1,2 @@
 # StatTracker
-Python program to track baseball stats.
+This program was my senior project in college. The program will allow the user to track a player's stats during a game, and add these stats to their totals after the game. The program stores these totals for multiple players, and the user can choose to view any player's totals along with numerous other stats that are calculated from them. Currently supports batting, fielding, and baserunning stats, with pitching stats being planned for the future.
