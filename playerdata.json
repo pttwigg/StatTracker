@@ -1,0 +1,103 @@
+{
+    "players": [
+        {
+            "id": 0,
+            "info": {
+                "firstname": "Ronnie",
+                "lastname": "Watts",
+                "team": "Phillies",
+                "number": 76,
+                "catcher": false
+            },
+            "stats": {
+                "G": 2986,
+                "PA": 12606,
+                "AB": 9847,
+                "H": 2935,
+                "SO": 1539,
+                "BB": 2558,
+                "B1": 1495,
+                "B2": 601,
+                "B3": 77,
+                "HR": 762,
+                "RBI": 1996,
+                "R": 2227,
+                "HBP": 106,
+                "FC": 121,
+                "SB": 514,
+                "CS": 141,
+                "PO": 5637,
+                "A": 173,
+                "E": 97,
+                "DSB": 0,
+                "DCS": 1
+            }
+        },
+        {
+            "id": 1,
+            "info": {
+                "firstname": "Peyton",
+                "lastname": "Twigg",
+                "team": "Free Agents",
+                "number": 99,
+                "catcher": false
+            },
+            "stats": {
+                "G": 3,
+                "PA": 10,
+                "AB": 9,
+                "H": 4,
+                "SO": 2,
+                "BB": 0,
+                "B1": 1,
+                "B2": 2,
+                "B3": 0,
+                "HR": 1,
+                "RBI": 6,
+                "R": 3,
+                "HBP": 1,
+                "FC": 0,
+                "SB": 1,
+                "CS": 1,
+                "PO": 1,
+                "A": 2,
+                "E": 2,
+                "DSB": 0,
+                "DCS": 0
+            }
+        },
+        {
+            "id": 2,
+            "info": {
+                "firstname": "Geddy",
+                "lastname": "Lee",
+                "team": "Rush",
+                "number": 2112,
+                "catcher": true
+            },
+            "stats": {
+                "G": 1,
+                "PA": 3,
+                "AB": 2,
+                "H": 1,
+                "SO": 0,
+                "BB": 1,
+                "B1": 0,
+                "B2": 0,
+                "B3": 0,
+                "HR": 1,
+                "RBI": 4,
+                "R": 1,
+                "HBP": 0,
+                "FC": 0,
+                "SB": 0,
+                "CS": 0,
+                "PO": 1,
+                "A": 1,
+                "E": 0,
+                "DSB": 1,
+                "DCS": 1
+            }
+        }
+    ]
+}
